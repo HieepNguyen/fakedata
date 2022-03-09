@@ -40,5 +40,134 @@
             "likes": 15,
             "comments": 12
         }
-    ]
+    ],
+    "books": [
+	{
+		"id": 1,
+		"url": "/img/sach_bao_vat.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "BẢO VẬT QUỐC GIA TỈNH BẮC NINH",
+		"content":
+			"Bảo vật quốc gia là những hiện vật có giá trị đặc biệt về văn hóa, lịch sử được Nhà nước Việt Nam bảo vệ và bảo quản theo chế độ riêng biệt. Việc công nhận danh hiệu Bảo vật quốc gia phải do chính Thủ tướng Chính phủ quyết định sau khi có ý kiến thẩm định của Hội đồng Di sản văn hóa quốc gia. Đây là những hiện vật độc đáo thể hiện bề dày lịch sử và truyền thống văn hiến lâu đời của dân tộc Việt Nam.",
+		"date": "Ngày 8 tháng 1, 2018"
+	},
+	{
+		"id": 2,
+		"url": "/img/sach_dinh_lang.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "ĐÌNH LÀNG BẮC NINH",
+		"content":
+			"Cuốn sách được biên soạn trên cơ sở kế thừa kết quả nghiên cứu của đề tài khoa học cấp tỉnh “Đình làng Bắc Ninh – giá trị lịch sử – văn hóa và vai trò của đình làng trong sự nghiệp xây dựng nông thôn mới ở Bắc Ninh hiện nay” do Bảo tàng thực hiện. Ngoài phần giới thiệu và phụ lục, cuốn sách được trình bày thành 4 chương.",
+		"date": "Ngày 8 tháng 1, 2018"
+	},
+	{
+		"id": 3,
+		"url": "/img/sach_di_san.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh",
+		"content": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh.",
+		"date": "Ngày 8 tháng 1, 2018"
+	},
+	{
+		"id": 4,
+		"url": "/img/sach_di_tich.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "GIỚI THIỆU SÁCH “DI TÍCH LỊCH SỬ VĂN HÓA TỈNH BẮC NINH",
+		"content":
+			"Năm 2013, Bảo tàng tỉnh Bắc Ninh tái bản cuốn sách “Di tích lịch sử văn hóa tỉnh Bắc Ninh” dày 846 trang, khổ 16cm x 24cm.",
+		"date": "Ngày 7 tháng 9, 2009"
+	},
+	{
+		"id": 5,
+		"url": "/img/sach_khoa_bang.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "Các vị đại khoa tỉnh Bắc Ninh",
+		"content": "Sách “Các vị đại khoa tỉnh Bắc Ninh” xuất bản năm 2015.",
+		"date": "Ngày 9 tháng 2, 2018"
+	},
+	{
+		"id": 6,
+		"url": "/img/sach_dia_danh.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử",
+		"content":
+			"Sách “Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử” xuất bản năm 2010.",
+		"date": "Ngày 31 tháng 5, 2018"
+	},
+	{
+		"id": 7,
+		"url": "/img/sach_lich_su.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh",
+		"content":
+			"Sách “Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh” xuất bản năm 2014.",
+		"date": "Ngày 12 tháng 6, 2018"
+	},
+	{
+		"id": 8,
+		"url": "/img/sach_thai_su.jpg",
+		"tags": ["Chi tiết", "Sách"],
+		"title": "Thái sư Lê Văn Thịnh",
+		"content": "Sách “Thái sư Lê Văn Thịnh” xuất bản năm 2016.",
+		"date": "Ngày 27 tháng 2, 2018"
+	}
+],
+"pictures":[
+	{
+		"id": 1,
+		"url": "/img/g1.jpg"
+	},
+	{
+		"id": 2,
+		"url": "/img/g2.jpg"
+	},
+	{
+		"id": 3,
+		"url": "/img/g3.jpg"
+	},
+	{
+		"id": 4,
+		"url": "/img/g4.jpg"
+	},
+	{
+		"id": 5,
+		"url": "/img/g5.jpg"
+	},
+	{
+		"id": 6,
+		"url": "/img/g6.jpg"
+	},
+	{
+		"id": 7,
+		"url": "/img/g7.jpg"
+	},
+	{
+		"id": 8,
+		"url": "/img/g8.jpg"
+	},
+	{
+		"id": 9,
+		"url": "/img/g9.jpg"
+	},
+	{
+		"id": 10,
+		"url": "/img/g10.jpg"
+	},
+	{
+		"id": 11,
+		"url": "/img/g11.jpg"
+	},
+	{
+		"id": 12,
+		"url": "/img/g12.jpg"
+	},
+	{
+		"id": 13,
+		"url": "/img/g4.jpg"
+	},
+	{
+		"id": 14,
+		"url": "/img/g5.jpg"
+	}
+]
 }

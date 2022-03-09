@@ -1,0 +1,44 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "url": "/img/chop_thap.jpg",
+            "date": "10/05/2018",
+            "title": "Chóp tháp",
+            "content":
+                "Hiện vật là phần chóp (đỉnh) của một tháp đá dùng trong trang trí kiến trúc vào thời Lý, thế kỷ XI. Hiện vật được phát hiện vào cuối tháng 12/2009 ở lớp thứ nhất của hố khai quật tại khu vực tam bảo chùa Dạm, do Ban Quản lý Di tích tỉnh Bắc Ninh tiến hành thăm dò, khai quật Chóp tháp được chia thành 3 cấp, thon dần về phía đỉnh, xung quanh trang trí hoa văn hình sóng nước. Đây là hiện vật có giá trị quan trọng trong việc nghiên cứu và tìm hiểu lịch sử tồn tại, phát triển của chùa Dạm – một danh lam được khởi dựng từ thời Lý đã trải qua gần 1000 năm tồn tại với biết bao thăng trầm của lịch sử.",
+            "likes": 15,
+            "comments": 9
+        },
+        {
+            "id": 2,
+            "url": "/img/cau_thang_da.png",
+            "date": "15/01/2008",
+            "title": "Cầu thang đá",
+            "content":
+                "Số đăng kí: BTBN 1566 Chất liệu: đá Kích thước: dài 133cm, rộng 2cm Niên đại: thế kỷ 16-17 Nội dung: hiện vật là cầu thang lên xuống thượng cung đình làng Đông Yên, xã Đông Phong, huyện Yên Phong, tỉnh Bắc Ninh. Đây là ngôi đình có quy mô lớn trong lịch sử từ thời Lê được lưu truyền dân gian “Thứ nhất là đình Đông Khang Thứ nhì Đình Bảng, vẻ vang đình Diềm” Đây là loại hình hiện vật độc đáo, hiếm có (thường chỉ có cầu thang bằng gỗ), góp phần xác định chính xác niên đại, cũng như tầm quan trọng của ngôi đình nổi tiếng xứ Bắc.",
+            "likes": 10,
+            "comments": 22
+        },
+        {
+            "id": 3,
+            "url": "/img/quan_tay.jpg",
+            "date": "21/12/2016",
+            "title": "Quán tẩy",
+            "content":
+                "Số đăng kí: BTBN 2611 Chất liệu: đá Kích thước: Cao 98cm; dài 36cm; rộng 35cm Niên đại: thế kỷ XVII – XVIII Nội dung: hiện vật được một nhóm thợ xây dựng phát hiện tháng 3/2014 trên khu vực đồi Lim. Dựa trên hình dáng và hoa văn trang trí cho thấy trụ đá có niên đại thế kỷ XVII – XVIII và có liên quan đến khu lăng của quận công Nguyễn Đình Diễn. Đây là loại hình hiện vật độc đáo hiếm có chưa từng phát hiện ở Bắc Ninh.",
+            "likes": 15,
+            "comments": 2
+        },
+        {
+            "id": 4,
+            "url": "/img/kt_chua_dam.jpg",
+            "date": "01/09/2018",
+            "title": "Sưu tập vật liệu kiến trúc chùa Dạm",
+            "content":
+                "Số đăng kí : BTBN 2605 – BTBN 2610 Chất liệu: đá Kích thước:  các hiện vật thể khối lớn: dài 50 – 80cm, rộng  30-60cm; cao 20-40cm Nội dung: Sưu tập bao gồm các hiện vật như đá kè tường nền, đá kè móng tháp, chân tảng kê cột, đế bia, bậc tam cấp…bằng đá cát kết có kích thước lớn, bề mặt trang trí hoa sen, hoa văn sóng nước. Đây là những phần vật liệu kiến trúc của chùa Dạm – công trình tín ngưỡng tiêu biểu thời Lý. Căn cứ vào kích thước của các vật liệu này cùng với các di vật được phát hiện qua các cuộc khai quật khảo cổ học cho thấy chùa Dạm là một quần thể kiến trúc đồ sộ, khẳng định vị trí “Quốc Tự” của di tích này.",
+            "likes": 15,
+            "comments": 12
+        }
+    ]
+}

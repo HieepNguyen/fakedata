@@ -1,173 +1,218 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "url": "/img/chop_thap.jpg",
-            "date": "10/05/2018",
-            "title": "Chóp tháp",
-            "content":
-                "Hiện vật là phần chóp (đỉnh) của một tháp đá dùng trong trang trí kiến trúc vào thời Lý, thế kỷ XI. Hiện vật được phát hiện vào cuối tháng 12/2009 ở lớp thứ nhất của hố khai quật tại khu vực tam bảo chùa Dạm, do Ban Quản lý Di tích tỉnh Bắc Ninh tiến hành thăm dò, khai quật Chóp tháp được chia thành 3 cấp, thon dần về phía đỉnh, xung quanh trang trí hoa văn hình sóng nước. Đây là hiện vật có giá trị quan trọng trong việc nghiên cứu và tìm hiểu lịch sử tồn tại, phát triển của chùa Dạm – một danh lam được khởi dựng từ thời Lý đã trải qua gần 1000 năm tồn tại với biết bao thăng trầm của lịch sử.",
-            "likes": 15,
-            "comments": 9
-        },
-        {
-            "id": 2,
-            "url": "/img/cau_thang_da.png",
-            "date": "15/01/2008",
-            "title": "Cầu thang đá",
-            "content":
-                "Số đăng kí: BTBN 1566 Chất liệu: đá Kích thước: dài 133cm, rộng 2cm Niên đại: thế kỷ 16-17 Nội dung: hiện vật là cầu thang lên xuống thượng cung đình làng Đông Yên, xã Đông Phong, huyện Yên Phong, tỉnh Bắc Ninh. Đây là ngôi đình có quy mô lớn trong lịch sử từ thời Lê được lưu truyền dân gian “Thứ nhất là đình Đông Khang Thứ nhì Đình Bảng, vẻ vang đình Diềm” Đây là loại hình hiện vật độc đáo, hiếm có (thường chỉ có cầu thang bằng gỗ), góp phần xác định chính xác niên đại, cũng như tầm quan trọng của ngôi đình nổi tiếng xứ Bắc.",
-            "likes": 10,
-            "comments": 22
-        },
-        {
-            "id": 3,
-            "url": "/img/quan_tay.jpg",
-            "date": "21/12/2016",
-            "title": "Quán tẩy",
-            "content":
-                "Số đăng kí: BTBN 2611 Chất liệu: đá Kích thước: Cao 98cm; dài 36cm; rộng 35cm Niên đại: thế kỷ XVII – XVIII Nội dung: hiện vật được một nhóm thợ xây dựng phát hiện tháng 3/2014 trên khu vực đồi Lim. Dựa trên hình dáng và hoa văn trang trí cho thấy trụ đá có niên đại thế kỷ XVII – XVIII và có liên quan đến khu lăng của quận công Nguyễn Đình Diễn. Đây là loại hình hiện vật độc đáo hiếm có chưa từng phát hiện ở Bắc Ninh.",
-            "likes": 15,
-            "comments": 2
-        },
-        {
-            "id": 4,
-            "url": "/img/kt_chua_dam.jpg",
-            "date": "01/09/2018",
-            "title": "Sưu tập vật liệu kiến trúc chùa Dạm",
-            "content":
-                "Số đăng kí : BTBN 2605 – BTBN 2610 Chất liệu: đá Kích thước:  các hiện vật thể khối lớn: dài 50 – 80cm, rộng  30-60cm; cao 20-40cm Nội dung: Sưu tập bao gồm các hiện vật như đá kè tường nền, đá kè móng tháp, chân tảng kê cột, đế bia, bậc tam cấp…bằng đá cát kết có kích thước lớn, bề mặt trang trí hoa sen, hoa văn sóng nước. Đây là những phần vật liệu kiến trúc của chùa Dạm – công trình tín ngưỡng tiêu biểu thời Lý. Căn cứ vào kích thước của các vật liệu này cùng với các di vật được phát hiện qua các cuộc khai quật khảo cổ học cho thấy chùa Dạm là một quần thể kiến trúc đồ sộ, khẳng định vị trí “Quốc Tự” của di tích này.",
-            "likes": 15,
-            "comments": 12
-        }
-    ],
-    "books": [
-	{
-		"id": 1,
-		"url": "/img/sach_bao_vat.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "BẢO VẬT QUỐC GIA TỈNH BẮC NINH",
-		"content":
-			"Bảo vật quốc gia là những hiện vật có giá trị đặc biệt về văn hóa, lịch sử được Nhà nước Việt Nam bảo vệ và bảo quản theo chế độ riêng biệt. Việc công nhận danh hiệu Bảo vật quốc gia phải do chính Thủ tướng Chính phủ quyết định sau khi có ý kiến thẩm định của Hội đồng Di sản văn hóa quốc gia. Đây là những hiện vật độc đáo thể hiện bề dày lịch sử và truyền thống văn hiến lâu đời của dân tộc Việt Nam.",
-		"date": "Ngày 8 tháng 1, 2018"
-	},
-	{
-		"id": 2,
-		"url": "/img/sach_dinh_lang.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "ĐÌNH LÀNG BẮC NINH",
-		"content":
-			"Cuốn sách được biên soạn trên cơ sở kế thừa kết quả nghiên cứu của đề tài khoa học cấp tỉnh “Đình làng Bắc Ninh – giá trị lịch sử – văn hóa và vai trò của đình làng trong sự nghiệp xây dựng nông thôn mới ở Bắc Ninh hiện nay” do Bảo tàng thực hiện. Ngoài phần giới thiệu và phụ lục, cuốn sách được trình bày thành 4 chương.",
-		"date": "Ngày 8 tháng 1, 2018"
-	},
-	{
-		"id": 3,
-		"url": "/img/sach_di_san.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh",
-		"content": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh.",
-		"date": "Ngày 8 tháng 1, 2018"
-	},
-	{
-		"id": 4,
-		"url": "/img/sach_di_tich.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "GIỚI THIỆU SÁCH “DI TÍCH LỊCH SỬ VĂN HÓA TỈNH BẮC NINH",
-		"content":
-			"Năm 2013, Bảo tàng tỉnh Bắc Ninh tái bản cuốn sách “Di tích lịch sử văn hóa tỉnh Bắc Ninh” dày 846 trang, khổ 16cm x 24cm.",
-		"date": "Ngày 7 tháng 9, 2009"
-	},
-	{
-		"id": 5,
-		"url": "/img/sach_khoa_bang.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "Các vị đại khoa tỉnh Bắc Ninh",
-		"content": "Sách “Các vị đại khoa tỉnh Bắc Ninh” xuất bản năm 2015.",
-		"date": "Ngày 9 tháng 2, 2018"
-	},
-	{
-		"id": 6,
-		"url": "/img/sach_dia_danh.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử",
-		"content":
-			"Sách “Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử” xuất bản năm 2010.",
-		"date": "Ngày 31 tháng 5, 2018"
-	},
-	{
-		"id": 7,
-		"url": "/img/sach_lich_su.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh",
-		"content":
-			"Sách “Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh” xuất bản năm 2014.",
-		"date": "Ngày 12 tháng 6, 2018"
-	},
-	{
-		"id": 8,
-		"url": "/img/sach_thai_su.jpg",
-		"tags": ["Chi tiết", "Sách"],
-		"title": "Thái sư Lê Văn Thịnh",
-		"content": "Sách “Thái sư Lê Văn Thịnh” xuất bản năm 2016.",
-		"date": "Ngày 27 tháng 2, 2018"
-	}
-],
-"pictures":[
-	{
-		"id": 1,
-		"url": "/img/g1.jpg"
-	},
-	{
-		"id": 2,
-		"url": "/img/g2.jpg"
-	},
-	{
-		"id": 3,
-		"url": "/img/g3.jpg"
-	},
-	{
-		"id": 4,
-		"url": "/img/g4.jpg"
-	},
-	{
-		"id": 5,
-		"url": "/img/g5.jpg"
-	},
-	{
-		"id": 6,
-		"url": "/img/g6.jpg"
-	},
-	{
-		"id": 7,
-		"url": "/img/g7.jpg"
-	},
-	{
-		"id": 8,
-		"url": "/img/g8.jpg"
-	},
-	{
-		"id": 9,
-		"url": "/img/g9.jpg"
-	},
-	{
-		"id": 10,
-		"url": "/img/g10.jpg"
-	},
-	{
-		"id": 11,
-		"url": "/img/g11.jpg"
-	},
-	{
-		"id": 12,
-		"url": "/img/g12.jpg"
-	},
-	{
-		"id": 13,
-		"url": "/img/g4.jpg"
-	},
-	{
-		"id": 14,
-		"url": "/img/g5.jpg"
-	}
-]
+  "blogs": [
+    {
+      "id": 1,
+      "url": "/img/chop_thap.jpg",
+      "date": "2018-05-13",
+      "title": "Chóp tháp",
+      "content": "Hiện vật là phần chóp (đỉnh) của một tháp đá dùng trong trang trí kiến trúc vào thời Lý, thế kỷ XI. Hiện vật được phát hiện vào cuối tháng 12/2009 ở lớp thứ nhất của hố khai quật tại khu vực tam bảo chùa Dạm, do Ban Quản lý Di tích tỉnh Bắc Ninh tiến hành thăm dò, khai quật Chóp tháp được chia thành 3 cấp, thon dần về phía đỉnh, xung quanh trang trí hoa văn hình sóng nước. Đây là hiện vật có giá trị quan trọng trong việc nghiên cứu và tìm hiểu lịch sử tồn tại, phát triển của chùa Dạm – một danh lam được khởi dựng từ thời Lý đã trải qua gần 1000 năm tồn tại với biết bao thăng trầm của lịch sử.",
+      "likes": 99,
+      "comments": 99
+    },
+    {
+      "id": 2,
+      "url": "/img/cau_thang_da.png",
+      "date": "2018-02-15",
+      "title": "Cầu thang đá",
+      "content": "Số đăng kí: BTBN 1566 Chất liệu: đá Kích thước: dài 133cm, rộng 2cm Niên đại: thế kỷ 16-17 Nội dung: hiện vật là cầu thang lên xuống thượng cung đình làng Đông Yên, xã Đông Phong, huyện Yên Phong, tỉnh Bắc Ninh. Đây là ngôi đình có quy mô lớn trong lịch sử từ thời Lê được lưu truyền dân gian “Thứ nhất là đình Đông Khang Thứ nhì Đình Bảng, vẻ vang đình Diềm” Đây là loại hình hiện vật độc đáo, hiếm có (thường chỉ có cầu thang bằng gỗ), góp phần xác định chính xác niên đại, cũng như tầm quan trọng của ngôi đình nổi tiếng xứ Bắc.",
+      "likes": 10,
+      "comments": 22
+    },
+    {
+      "id": 3,
+      "url": "/img/quan_tay.jpg",
+      "date": "2016-12-21",
+      "title": "Quán tẩy",
+      "content": "Số đăng kí: BTBN 2611 Chất liệu: đá Kích thước: Cao 98cm; dài 36cm; rộng 35cm Niên đại: thế kỷ XVII – XVIII Nội dung: hiện vật được một nhóm thợ xây dựng phát hiện tháng 3/2014 trên khu vực đồi Lim. Dựa trên hình dáng và hoa văn trang trí cho thấy trụ đá có niên đại thế kỷ XVII – XVIII và có liên quan đến khu lăng của quận công Nguyễn Đình Diễn. Đây là loại hình hiện vật độc đáo hiếm có chưa từng phát hiện ở Bắc Ninh.",
+      "likes": 15,
+      "comments": 2
+    },
+    {
+      "id": 4,
+      "url": "/img/kt_chua_dam.jpg",
+      "date": "2018-09-01",
+      "title": "Sưu tập vật liệu kiến trúc chùa Dạm",
+      "content": "Số đăng kí : BTBN 2605 – BTBN 2610 Chất liệu: đá Kích thước:  các hiện vật thể khối lớn: dài 50 – 80cm, rộng  30-60cm; cao 20-40cm Nội dung: Sưu tập bao gồm các hiện vật như đá kè tường nền, đá kè móng tháp, chân tảng kê cột, đế bia, bậc tam cấp…bằng đá cát kết có kích thước lớn, bề mặt trang trí hoa sen, hoa văn sóng nước. Đây là những phần vật liệu kiến trúc của chùa Dạm – công trình tín ngưỡng tiêu biểu thời Lý. Căn cứ vào kích thước của các vật liệu này cùng với các di vật được phát hiện qua các cuộc khai quật khảo cổ học cho thấy chùa Dạm là một quần thể kiến trúc đồ sộ, khẳng định vị trí “Quốc Tự” của di tích này.",
+      "likes": 15,
+      "comments": 12
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "url": "/img/sach_bao_vat.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "BẢO VẬT QUỐC GIA TỈNH BẮC NINH",
+      "content": "Bảo vật quốc gia là những hiện vật có giá trị đặc biệt về văn hóa, lịch sử được Nhà nước Việt Nam bảo vệ và bảo quản theo chế độ riêng biệt. Việc công nhận danh hiệu Bảo vật quốc gia phải do chính Thủ tướng Chính phủ quyết định sau khi có ý kiến thẩm định của Hội đồng Di sản văn hóa quốc gia. Đây là những hiện vật độc đáo thể hiện bề dày lịch sử và truyền thống văn hiến lâu đời của dân tộc Việt Nam.",
+      "date": "2018-01-08"
+    },
+    {
+      "id": 2,
+      "url": "/img/sach_dinh_lang.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "ĐÌNH LÀNG BẮC NINH",
+      "content": "Cuốn sách được biên soạn trên cơ sở kế thừa kết quả nghiên cứu của đề tài khoa học cấp tỉnh “Đình làng Bắc Ninh – giá trị lịch sử – văn hóa và vai trò của đình làng trong sự nghiệp xây dựng nông thôn mới ở Bắc Ninh hiện nay” do Bảo tàng thực hiện. Ngoài phần giới thiệu và phụ lục, cuốn sách được trình bày thành 4 chương.",
+      "date": "2018-01-08"
+    },
+    {
+      "id": 3,
+      "url": "/img/sach_di_san.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh",
+      "content": "Di sản văn hóa về truyền thống hiếu học tỉnh Bắc Ninh.",
+      "date": "2018-01-08"
+    },
+    {
+      "id": 4,
+      "url": "/img/sach_di_tich.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "GIỚI THIỆU SÁCH “DI TÍCH LỊCH SỬ VĂN HÓA TỈNH BẮC NINH",
+      "content": "Năm 2013, Bảo tàng tỉnh Bắc Ninh tái bản cuốn sách “Di tích lịch sử văn hóa tỉnh Bắc Ninh” dày 846 trang, khổ 16cm x 24cm.",
+      "date": "2009-09-07"
+    },
+    {
+      "id": 5,
+      "url": "/img/sach_khoa_bang.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "Các vị đại khoa tỉnh Bắc Ninh",
+      "content": "Sách “Các vị đại khoa tỉnh Bắc Ninh” xuất bản năm 2015.",
+      "date": "2018-02-09"
+    },
+    {
+      "id": 6,
+      "url": "/img/sach_dia_danh.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử",
+      "content": "Sách “Địa danh, địa giới hành chính tỉnh Bắc Ninh trong lịch sử” xuất bản năm 2010.",
+      "date": "2018-05-31"
+    },
+    {
+      "id": 7,
+      "url": "/img/sach_lich_su.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh",
+      "content": "Sách “Lịch sử tên xã, phường, đường, phố thành phố Bắc Ninh” xuất bản năm 2014.",
+      "date": "2018-06-12"
+    },
+    {
+      "id": 8,
+      "url": "/img/sach_thai_su.jpg",
+      "tags": [
+        "Chi tiết",
+        "Sách"
+      ],
+      "title": "Thái sư Lê Văn Thịnh",
+      "content": "Sách “Thái sư Lê Văn Thịnh” xuất bản năm 2016.",
+      "date": "2018-02-27"
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "url": "/img/g1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "/img/g2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "/img/g3.jpg"
+    },
+    {
+      "id": 4,
+      "url": "/img/g4.jpg"
+    },
+    {
+      "id": 5,
+      "url": "/img/g5.jpg"
+    },
+    {
+      "id": 6,
+      "url": "/img/g6.jpg"
+    },
+    {
+      "id": 7,
+      "url": "/img/g7.jpg"
+    },
+    {
+      "id": 8,
+      "url": "/img/g8.jpg"
+    },
+    {
+      "id": 9,
+      "url": "/img/g9.jpg"
+    },
+    {
+      "id": 10,
+      "url": "/img/g10.jpg"
+    },
+    {
+      "id": 11,
+      "url": "/img/g11.jpg"
+    },
+    {
+      "id": 12,
+      "url": "/img/g12.jpg"
+    },
+    {
+      "id": 13,
+      "url": "/img/g4.jpg"
+    },
+    {
+      "id": 14,
+      "url": "/img/g5.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "url": "/img/u1.jpg",
+      "title": "MỘC BẢN SÁCH “HẢI THƯỢNG Y TÔNG TÂM LĨNH” CỦA BẢO TÀNG BẮC NINH ĐƯỢC CÔNG NHẬN LÀ BẢO VẬT QUỐC GI",
+      "date": "2021-12-29",
+      "content": "Phó Thủ tướng Chính phủ Vũ Đức Đam vừa ký Quyết định số 2198/QĐ-TTg ngày 25-12-2021 công nhận 23 bảo vật quốc gia (đợt 10, năm 2021), trong đó có Mộc bản sách “Hải Thượng y tông tâm lĩnh” của Bảo tàng tỉnh Bắc Ninh.."
+    },
+    {
+      "id": 2,
+      "url": "/img/u2.jpg",
+      "title": "Trưng bày lưu động chuyên đề “Truyền thống khoa bảng tỉnh Bắc Ninh”",
+      "date": "2021-10-25",
+      "content": "Sáng ngày 18 tháng 10 năm 2021, tại Trường THCS Yên Phong, thị trấn Chờ, tỉnh Bắc Ninh, Bảo tàng Bắc Ninh tổ chức khai mạc Trưng bày chuyên đề lưu động “Truyền thống khoa bảng tỉnh Bắc Ninh”. Đến tham dự buổi khai mạc có đại diện lãnh đạo phòng Giáo dục và Đào tạo, phòng Văn hóa – Thông tin huyện Yên Phong; phóng viên Báo chí và Đài phát thanh truyền tỉnh, huyện, cùng các thầy cô giáo và đại diện các em học sinh các lớp, các khối Trường THCS Yên Phong."
+    },
+    {
+      "id": 3,
+      "url": "/img/u3.jpg",
+      "title": "Bảo tàng Bắc Ninh tổ chức khai mạc trưng bày lưu tại huyện Gia Bình",
+      "date": "2021-10-25",
+      "content": "Sáng 19/10/2021, tại Trung tâm Bồi dưỡng chính trị huyện Gia Bình, Bảo tàng Bắc Ninh phối hợp với Hội Chiến sĩ cách mạng bị địch bắt tù đày tỉnh tổ chức khai mạc trưng bày chuyên đề “Sáng mãi tấm gương người chiến sĩ cách mạng tỉnh Bắc Ninh bị địch bắt tù đày trong cuộc kháng chiến chống đế quốc Mỹ”."
+    },
+    {
+      "id": 4,
+      "url": "/img/u4.jpg",
+      "title": "BẢO TÀNG BẮC NINH TỔ CHỨC HỘI THẢO KHOA HỌC",
+      "date": "2021-10-15",
+      "content": "Được sự cho phép của Sở Văn hóa, Thể thao và Du lịch Bắc Ninh, Sở Khoa học và Công nghệ Bắc Ninh, ngày 29/9/2021 tại khách sạn Kinh Bắc, Bảo tàng Bắc Ninh tổ chức Hội thảo khoa học với chủ đề “Giá trị di sản văn hóa chùa tháp trên địa bàn tỉnh Bắc Ninh và việc bảo tồn, phát huy giá trị di sản văn hóa chùa tháp trong đời sống xã hội đương đại”."
+    }
+  ]
 }
